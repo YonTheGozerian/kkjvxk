@@ -13,6 +13,6 @@ c) x thousand common words - run, jump, he, she, male, female, etc
 
 d) taboo words ( man, woman, mankind, earth, etc ) - different planet with no knowledge of Earth
 
-e) numerology - 6 (imperfection), 7 ( perfection, complete ), 40 ( long time ), 3 ( trinity: Father, Son, Holy Ghost )
+e) numerology - 6 (imperfection), 7 ( perfection, complete ), 40 ( long time/distance/etc ), 3 ( trinity: Father, Son, Holy Ghost )
 
 f) using *same* bible names - Adam, Noah, Jacob/Israel, Jesus, Simon/Peter, etc
