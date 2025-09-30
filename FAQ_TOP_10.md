@@ -1,21 +1,21 @@
 As of 1/14/2025
 
-1) why Kotlin? can do api code and front-end ( https://kotlinlang.org/docs/js-overview.html )
+1) why python? can do api code ( server code ) 
 
 2) why using Redis?  ( https://redis.io/docs/latest/develop/data-types/sorted-sets/ )
 
-3) note: if another fork is better than mine I will deprecate mine and contribute to theirs
+3) why sqlite ? - is tiny and good enough to start with before using postgresql
 
-4) what is first goal? to get 1 star
+4) note: if another fork is better than mine I will deprecate mine and contribute to theirs
 
-5) why are you doing this? I needed a lovable project to learn Kotlin ( 'The First 20 hours' by Josh Kaufman )
+5) what is first goal? to get 1 star
 
-6) is this some kind of joke?  no more than these other translations:  https://www.biblestudytools.com/bible-versions/ 
+6) why are you doing this? I needed a lovable project to get *better* at python / flask etc ( 'The First 20 hours' by Josh Kaufman )
 
-7) english language Bible using: 'The King James Study Bible' ( published by Nelson )
+7) is this some kind of joke?  no more than these other translations:  https://www.biblestudytools.com/bible-versions/ 
 
-8) starting using https://github.com/KazumaProject/kotlin-kana-kanji-converter ( seems active enough 3 stars / last commit 5 days ago )
+8) english language Bible using: 'The King James Study Bible' ( published by Nelson )
 
-9) 13 results when using the 'kotlin kanji' 
+9) starting using which python flask kanji app ( need to search ) 
 
 10) there were 5K repositories when searching github for "kanji"
