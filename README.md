@@ -13,7 +13,7 @@ using sqlite
 
 a) kangi - around 1,000 kanji cover the majority of everyday reading and writing needs according to chatgpt
 
-b) modern day Japan - captain, doctor, scientist, etc
+b) for modern day Japan - captain, doctor, scientist, refrigerator etc
 
 b) spiritual ( inspired words ) - spirit, love, mind, etc
 
