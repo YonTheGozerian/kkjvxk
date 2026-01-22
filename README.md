@@ -17,7 +17,7 @@ b) for modern day Japan - captain, doctor, scientist, refrigerator etc
 
 b) spiritual ( inspired words ) - spirit, love, mind, etc
 
-c) x thousand common words - run, jump, he, she, male, female, etc
+c) x thousand common words - run, jump, he, she, male, female,  cat, dog etc
 
 d) taboo words ( America, UK, etc ) - old and new testament - European countries nor USA existed yet
 
